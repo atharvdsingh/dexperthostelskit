@@ -32,8 +32,8 @@ export default function RootLayout({
               <div className="relative top-4" >
 
       <div className="flex  bg-[blur-md] mx-2 justify-between items-center" >
-        <div>logo</div>
-        <div>header</div>
+        <div>Department Expert</div>
+        
         <div>
           <ButtonClient/>
 
