@@ -12,7 +12,7 @@ function ButtonNavigationClient() {
     return (
         <>
         <div className='flex gap-6' >
-            <Button onClick={()=>router.push("./hostelskit.com")}  > Apply </Button>
+            <Button onClick={()=>router.push("./de-form")}  > Apply </Button>
             <Button onClick={()=>router.push("https://hostelskit.com")} variant={"secondary"} > Discover </Button>
         </div>
         </>
