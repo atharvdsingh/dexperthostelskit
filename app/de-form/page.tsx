@@ -137,7 +137,7 @@ export default function Page() {
               This form is an expression of interest. Submission does not guarantee selection.
             </p>
 
-            <Button type="submit" className="w-full text-black bg-white ">
+            <Button type="submit" className="w-full hover:bg-gray-300 text-black bg-white ">
               Submit Application
             </Button>
           </form>
